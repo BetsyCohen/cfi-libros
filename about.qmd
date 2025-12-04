@@ -1,0 +1,11 @@
+---
+title: "Betsy Cohen"
+---
+
+Betsy es socióloga y analista de datos con enfoque en políticas públicas. Participa activamente en la comunidad RLadies Buenos Aires y co-coordina el Núcleo de Innovación Social, donde impulsa proyectos que mezclan mirada social y herramientas tecnológicas. Le interesa construir soluciones accesibles, sostenibles y colaborativas.
+
+**Contacto:**
+
+✉️ [betsabecohen\@gmail.com](mailto:betsabecohen@gmail.com)
+
+{{< bi linkedin color=cornflowerblue >}}[Linkedin](https://www.linkedin.com/in/betsabe1984/)

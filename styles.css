@@ -1,0 +1,18 @@
+/* css styles */
+
+/* Ajusta el tamaño del logo en la navbar sin invadir */
+.navbar-brand img {
+  max-height: 55px;
+  margin-right: 10px;
+}
+
+/* Pequeños detalles para que se vea prolijo */
+.navbar {
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+body {
+  line-height: 1.6;
+}
+

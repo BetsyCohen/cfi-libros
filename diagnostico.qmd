@@ -1,0 +1,379 @@
+---
+title: "Diagnóstico del Ecosistema Editorial"
+toc: true
+toc-location: left
+toc-title: "Indice"
+number-sections: false
+---
+
+## **Introducción**
+
+Esta herramienta se propone brindar un marco general de la coyuntura del ecosistema del libro en las provincias argentinas brindando las herramientas para la construcción de un plan de acción local.
+
+Comprendemos por ecosistema del libro, al sistema complejo en la que el libro funge como mercancía cultural desde su creación, pasando por su producción y distribución hasta su uso bajo la forma de hábitos de lectura.
+
+El ecosistema del libro muestra en general profundas asimetrías, veamos de qué se trata.
+
+### **Asimetrías y desafíos entre los agentes del ecosistema**
+
+Desde el punto de vista económico podemos observar asimetrías a través de diferentes indicadores como por ej. el Valor Agregado Bruto cultural (VAB cultural) construido por SINCA INDEC.
+
+De acuerdo con la Cuenta Satélite de Cultura, el sector de Libros y Publicaciones es el **segundo con mayor participación en el Valor Agregado Bruto (VAB) cultural** de la nación. En 2024, representó el 21.9% del VAB cultural total, posicionándose justo por debajo del sector de Publicidad, que alcanzó el 22.8%. Esta cifra subraya la relevancia del sector editorial en la economía cultural argentina.
+
+No obstante, un examen detallado de la Cuenta Satélite revela una **tensión estructural crítica** al comparar el VAB con la generación de empleo. A pesar de su alta contribución al valor económico total, el sector solo concentra el **8.9% de los puestos de trabajo culturales** en 2024, lo que equivale a 32,994 mil puestos laborales[^1]. Es decir, se produce una disparidad entre el valor económico generado y la baja proporción de empleo indica una concentración de valor.
+
+[^1]: Véase Cuenta satélite de cultura en <https://www.indec.gob.ar/uploads/informesdeprensa/csc_08_2552FA26E661.pdf>
+
+Esto sugiere que gran parte del valor agregado se concentra en los eslabones superiores de la cadena de valor, (grandes grupos editoriales), mientras que la generación de empleo en los oficios conexos (creación, edición artesanal, librerías) es proporcionalmente baja.
+
+Esta tensión también se puede observar desde el punto de vista de la producción, evaluada (aunque sea de manera marginal[^2]) a través del registro de ISBN en donde para las publicaciones comerciales (SEC) la concentración[^3]
+
+[^2]: El ISBN registra solamente la primera edición de cada novedad lanzada por el editor. No incluye las reediciones ni reimpresiones.
+
+[^3]: Para más información véase Informe de producción anual del libro argentino 2024 <https://issuu.com/camaradellibro/docs/informe_de_producci_n_anual_libro_argentino_2024>
+
+Esta estructura económica amplifica la vulnerabilidad laboral y la precarización, especialmente para los actores más pequeños y descentralizados en las provincias, quienes enfrentan mayores dificultades para capturar este valor.
+
+La situación económica del sector se agrava al considerar la **contracción y el riesgo financiero**. El VAB del sector Libros y Publicaciones experimentó una contracción real del **-13.4% interanual en 2024** (medido a precios de 2004). Esta caída drástica no sólo refleja una crisis en la demanda de consumo, sino que también indica que los altos costos fijos inherentes a la producción y distribución física de libros, en el vasto territorio argentino, se vuelven insostenibles ante la disminución de los ingresos. La promoción provincial debe ser entendida como una intervención económica urgente, diseñada para mitigar el riesgo de colapso de la cadena de valor en regiones donde la estructura editorial es más frágil.
+
+Finalmente, el sector contribuye al **déficit comercial** en el ámbito de los bienes culturales. En 2024, el saldo comercial de bienes culturales característicos resultó en un déficit de **-55.091 millones de pesos corrientes**. Estos valores deben ser puestos en contexto en tanto dentro de las partidas arancelarias correspondientes a los libros (4901 y 4903 principalmente) se incluyen otros componentes que tienden a sobre dimensionar este déficit[^4].
+
+[^4]: La partida incluye hojas sueltas que integran la misma partida presupuestaria así como folletos o mini libros, cuyo principal valor se encuentra en el llamado "complemento" , un objeto (por ej. juguetes que acompañan al libro y que son de venta habitual en kioscos y regalerías. En este tipo de casos el principal valor se encuentra en el complemento más que en la obra
+
+Si bien no contamos con información desagregada que nos permita cuantificar su importancia sabemos que parte de estas importaciones constituyen lo que habitualmente se denomina importación de **servicios de impresión**. Esto puede explicarse ya sea porque el tipo de cambio para determinada cantidad de tirada en ciertas calidades de edición resultan más competitivos en el exterior (principalmente en China) o la importación de estos servicios para productos que no se realizan en el país[^5]
+
+[^5]: Por ej algunos tipos de acabado específicos, libros con pop-up, libros de tipo plástico o "para baño" para el público infantil.
+
+Cualquier estrategia provincial para la promoción del libro debe partir de un reconocimiento de las asimetrías geográficas y socioeconómicas del consumo cultural en Argentina, diferenciando el perfil del lector a nivel nacional de las élites culturales concentradas.
+
+En términos de hábitos de lectura a nivel país, los resultados de la Encuesta Nacional de Consumos Culturales (ENCC 2022) indican que la lectura es una práctica extendida, pero no universal: solo el **51% de la población leyó al menos un libro en el último año**.[^6]
+
+[^6]: Encuesta Nacional de Consumo Culturales disponibles en <https://www.argentina.gob.ar/cultura/cultura-en-datos/encuesta-nacional-de-consumos-culturales>
+
+Para el resto del país, la lectura está fuertemente anclada en el **foco educativo**. La ENCC 2022 revela que los grupos etarios que más leen son los jóvenes de 13 a 17 años (77%) y de 18 a 29 años (58%).2 En estos rangos, los géneros más leídos se corresponden con áreas de incumbencia educativa, como narrativa y textos escolares (39% de los jóvenes de 13-17 años leen textos escolares). En este sentido una estrategia provincial deberá tener en cuenta que la lectura no tendrá por detrás motivos de ocio, sino más bien mediado por fines **educativos**, como motor principal de consumo y acceso.
+
+Las **asimetrías de gasto regional**, evidenciadas en la Encuesta Nacional de Gastos de los Hogares (ENGHo 2017-2018), son cruciales para el diseño de políticas. Las regiones del Noroeste (NOA) y Noreste (NEA) presentan los gastos medios mensuales per cápita más bajos del país (52.4% y 68.0% del promedio nacional, respectivamente).[^7]
+
+[^7]: Encuesta Nacional de Gastos de los Hogares informes disponibles en <https://www.indec.gob.ar/indec/web/Nivel3-Tema-4-45>
+
+Esta limitación en la capacidad adquisitiva obliga a los hogares de estas regiones a priorizar el gasto en necesidades básicas: el gasto en Alimentos y Bebidas no Alcohólicas es el rubro principal en NEA (30.3%) y NOA (29.0%), mientras que el gasto en **Recreación y Cultura** en estas mismas regiones (NEA 7.3%, NOA 7.2%) es inferior al de Gran Buenos Aires (8.3%) y Patagonia (10.2%).
+
+Esta estructura del presupuesto familiar indica que, en contextos de bajos ingresos, el consumo de libros se desplaza a una categoría de lujo o es sustituido por otras necesidades. En este sentido,los espacios de **acceso gratuito y el apoyo a la red existente de promotores de la lectura** (bibliotecas escolares, bibliotecas populares, talleres de formación y promoción de la lectura deberían jugar un rol fundamental para acortar estas asimetrías.
+
+## 
+
+## **Ejes para la Guía de gestión del ecosistema del libro**
+
+La Guía para el Diagnóstico y Gestión del Ecosistema del Libro Provincial se concibe como un instrumento de planificación y autodiagnóstico diseñado para ser completado anualmente por los responsables de cultura.
+
+El instrumento se estructura alrededor de los seis ejes de trabajo. Para cada uno de ellos brindamos un breve contexto, pautas para la gestión y una guia de preguntas diagnóstico que la guien.
+
+### **1. Exhibición y Circulación**
+
+Entendemos la exhibición y circulación del libro como todas aquellas prácticas, espacios y actividades que fungen como facilitadoras del libro como objeto y práctica de lectura. A nivel **comercial** serán los editores pero sobre todo las cadenas de librerías, ferias y eventos en donde se pueda producir la comercialización del libro como producto. Si bien como producto el libro es un objeto relativamente portable, la **escala geográfica** de nuestro país, sumada a la falta de un **sistema de información integrado**[^8] del libro dificultan (además de los motivos socioeconómicos generales) el desarrollo del tejido librero.
+
+[^8]: **Si bien algunos actores individuales han mostrado avances (como por ej. en el uso de sistemas de gestión que facilitan la carga, la incorporación de ONIX) es justamente la falta de avances colectivos los que continúan presentado un desafío en el cual las instituciones públicas y los actores privados logren avanzar en un catálogo integrado que permita facilitar la exhibición y circulación.**
+
+La generación de **Redes de distribución cooperativas** como las planteadas por la experiencia de la REUN, establecen un punto de partida y antecedente de relevancia, en la gestión federal de esta problemática.
+
+La exhibición y circulación en el nivel de su promoción de hábitos de lectura incluye principalmente a las bibliotecas de todos los tipos y niveles, talleres de lecto escritura, mediadores y promotores de la lectura. Si bien encontraremos gran parte de ellos dentro de los ámbitos educativos (de todos los niveles pero sobre todo el nivel inicial).\
+Estas instituciones, que funcionan en gran medida a través de voluntariado, enfrentan el riesgo de perder programas esenciales y fondos, lo que dificulta su capacidad para operar, comprar libros y desarrollar proyectos.
+
+Otro actor/ práctica a considerar como participante de las estrategias de exhibición y circulación son los booktubers, bookstagramers y book-tokers, quienes ya se encuentran consolidados como un aliado de la industria editorial, así como expresiones locales más minoritarias o cerradas como grupos de redes sociales / whatsapp de recomendación de libros, clubes de lectura y otros colectivos vinculados a la lectura.
+
+Finalmente y no por ello menos importante se debe hacer mención a la circulación y exhibición como parte de la comercialización y promoción de la lengua hispana y del comercio exterior en general. En estrecha relación con la internacionalización del libro (véase eje 5) circulación de los idiomas, y el posicionamiento del libro argentino en el exterior. En esta esfera encontramos a los traductores, agentes literarios así como organizaciones de promoción del libro.
+
+#### **Puntas y guías de gestión:**
+
+Identificar las particularidades que adquiere cada uno de estos ejes en la provincia
+
+-   Fomentar redes de distribución cooperativas\
+-   Integrar a las bibliotecas populares como dinamizadoras de la demanda en zonas donde el consumo de libros se ve restringido por ingresos
+
+#### **Preguntas e indicadores sugeridos**
+
+**Algunas preguntas**
+
+-   ¿Cuál es la distribución geográfica de las librerías en la provincia? ¿Están concentradas solo en la capital o hay capilaridad en el interior?\
+-   ¿Existen ferias del libro locales o regionales consolidadas? ¿Qué porcentaje de los stands se asigna a editoriales y librerías locales vs. cadenas nacionales?\
+-   ¿Los libros editados en la provincia tienen presencia visible en las librerías locales (sección propia, vidriera)?\
+-   ¿Existe algún circuito de "turismo cultural" que integre a librerías o casas de autores?
+
+**Indicadores**
+
+-   Densidad de puntos de venta: Cantidad de librerías / habitantes de la provincia. (Utilizar como fuente la\
+-   Tasa de actividad de las bibliotecas populares: % de bibliotecas populares de la provincia que adquirieron libros de editoriales locales en el último año. (Pueden solicitar listado de compras en CONABIP)\
+-   Eventos: Cantidad de ferias del libro realizadas en la provincia en los últimos 2 años.
+
+### **2. Datos e Indicadores**
+
+Si bien cada uno de los actores que componen el ecosistema posee diferentes niveles de producción de información es importante relevar al menos un set de indicadores básicos como punto de partida y luego se podrá profundizar en las fuentes (y su posible sistematización) en cada caso. Existen sin embargo un set de datos básicos y fuentes fundamentales que se deben tener en cuenta.
+
+En términos de gobernanza de los sistemas de información una de las problemáticas centrales es la falta de sistematización y continuidad a lo largo del tiempo.
+
+Podría decirse que el mayor esfuerzo respecto de este punto a nivel nacional ha sido la experiencia del Sistema de Información Argentina (SiNCA) el cual a través de sus informes nos brinda algunos datos acerca de la producción así como de prácticas de lectura.
+
+En este sentido la elaboración de convenios con institutos universitarios académicos o grupos de estudio en los que pueda tercerizar parte del relevamiento así como la aplicación y uso de herramientas de código abierto que garanticen la sostenibilidad y autogestión de los relevamientos pueden ser un punto a explorar.
+
+Los editores son el agente que reporta una mayor consistencia y cantidad de fuentes respecto del ecosistema. Actualmente conocemos la cantidad de registros de novedades gracias a la información relevada en el registro de ISBN y se cuenta con diferentes encuestas sobre el sector.
+
+En el caso de los libreros la información ha sido más escasa, al respecto el SiNCA[^9], así como la Fundación El Libro[^10] y la Feria de Editores[^11] han elaborado sus mapas/ listados de librerías y desde la CAL se intentaron varios esfuerzos por incluir a este sector dentro de las encuestas que realizan trimestralmente[^12]
+
+[^9]: <https://www.sinca.gob.ar/mapa.aspx?id=1>
+
+[^10]: <https://mapa.el-libro.org.ar/>
+
+[^11]: <https://www.dropbox.com/scl/fi/1x51gvdwikyg61iapgmp8/Acreditaci-n-librer-as-Aliadas-2025-respuestas.xlsx?rlkey=upkrrcwy4d99i6bz25vz53yxt&e=1&dl=0>
+
+[^12]: <https://www.camaradellibro.com.ar/informes-encuesta-del-sector-del-libro/>
+
+**Puntas para la gestión:**
+
+-   Llevar un informe local sobre los registros de ISBN no solo como trámite, sino como insumo estadístico para diferenciar "edición de autor" de "empresa editorial" a nivel local\
+-   Diferenciar en el mapa de actores locales la configuración de la "cadena estrecha" (mercado) y la "cadena ampliada" (creadores, oficios conexos).\
+-   Diseñar instrumentos de autogestión estadística con herramientas de código abierto que permitan la sostenibilidad de estos sistemas de relevamiento y análisis.
+
+#### **Preguntas e indicadores sugeridos**
+
+**Algunas preguntas**
+
+¿Existe un registro provincial de trabajadores de la cultura que desagregue específicamente al sector editorial (editores, ilustradores, correctores)?
+
+¿Cuál es el rol de las editoriales universitarias? ¿Cuál es su relación con
+
+¿La provincia cuenta con datos sobre las compras públicas de libros realizadas por el Ministerio de Educación o Cultura local?
+
+¿Se tiene identificada la cantidad de imprentas activas en la provincia con capacidad para producción editorial?
+
+**Indicadores:**
+
+-   **Producción local:** Cantidad de registros de ISBN para la provincia en los últimos 5 años, según tipo de entidad registrante (Empresas editoriales, Microemprendimientos, Edición de autor, etc.) Cantidad de sujetos registrantes (razones sociales) ante ISBN , según tipo de entidad registrante últimos 5 años, Medio y moda de la tirada, según tipo de entidad registrante últimos 5 años.\
+-   **Tamaño del tejido de agentes:** Cantidad de CUITs activos en la provincia bajo los rubros vinculados a la edición y comercialización del libro[^13], así como a sus servicios conexos (diseño, ilustración, traducción, encuadernación, etc.) **.**\
+-   Cantidad de librerías y ubicación (posibles fuentes mapa de librerías de FEL, Mapa de librerías FED)Cantidad y ubicación de bibliotecas populares (Ver en <https://www.conabip.gob.ar/buscador_bp>)\
+-   **Mapeo de posibles socios**: detección de informantes clave y relevamiento de recursos humanos para la elaboración de relevamientos sencillos y automatizados.\
+-   **Tasa de Bibliodiversidad Local:** Porcentaje del fondo bibliográfico de las Bibliotecas Públicas Provinciales que corresponde a editoriales/autores de la provincia (Mide el apoyo estatal a la circulación de la producción propia).
+
+[^13]: 581100: edición de libros, folletos, y otras publicaciones, 476110: venta al por menor de libros, 181200: servicios relacionados con la impresión, 181109 (f-883) impresión n.c.p., excepto de diarios y revistas,
+
+### 
+
+### **3. Normativa / Gobernanza**
+
+Un desafío clave es la "falta de solidaridad orgánica" entre los actores. Existe una "cadena estrecha" (con representación formal) y una "cadena ampliada" (oficios atomizados) que rara vez dialogan. Una política provincial efectiva debe poder convocar a ambas, o al menos generar las condiciones para que se produzca el diálogo entre ambas.
+
+En términos de **normativa** la Ley Nacional del Libro (Ley 25.446) funciona como el principal marco de protección, amén de que cuenta con un amplio consenso de prácticamente todas las organizaciones gremiales que conforman el ecosistema.
+
+La establece que cada obra debe contar con un precio único de venta al público (PVP) fijado por su editor y respetado por todos los canales de venta, con el fin de garantizar una competencia equilibrada y evitar la concentración del mercado en grandes cadenas o plataformas. Sancionada con amplio consenso del sector, se fundamenta en que el libro es un bien cultural estratégico para la circulación de ideas, la identidad y el desarrollo social. El precio fijo fortalece a las editoriales y librerías pymes, promueve la bibliodiversidad y sostiene una red de producción y acceso a la lectura reconocida a nivel regional. El control efectivo del precio fijo protege la rentabilidad de los puntos de venta minoristas en un mercado competitivo, asegurando la sostenibilidad de las librerías locales frente a las grandes cadenas y plataformas digitales.
+
+Existen prácticas comerciales en las que esta normativa se ve quebrantada y/o en las que como señala Dujovne (CERLALC:2022) rompe el "pacto tácito" por el cual los libreros constituyen el canal de venta privilegiado para el libro.
+
+Algunos ejemplos de esta situación son cuando de manera minoritaria serían durante las llamadas "temporadas de texto" algunas librerías ofrecen versiones fotocopiadas de las obras se libros de texto escolar, entrando en conflicto con las editoriales. En estos casos la mediación de entidades como el Centro de Administración de Derechos Reprográficos (CADRA[^14]), puede ser una primera instancia de resolución/ revisión.
+
+[^14]: La principal organización argentina de derechos reprográficos es CADRA (Centro de Administración de Derechos Reprográficos). Su función es gestionar y administrar colectivamente los derechos de autores y editores para el uso legal de sus obras, como la fotocopia o reproducción digital de libros y publicaciones. Si bien CADRA ha gestionado tradicionalmente estos derechos, a partir del Decreto 1036/2024 se ha derogado la exclusividad de esta institución para la gestión por lo cual se sugiere .
+
+La venta directa por parte de editoriales a escuelas, si bien no constituye una práctica ilegal también puede resultar en quejas o daños para los libreros locales.
+
+Casos más resonantes a nivel nacional lo constituyen la creación de una tienda propia en Mercado Libre por parte del grupo Planeta.
+
+Enfocándonos en el ámbito de la promoción de la lectura sobre todo a través de las bibliotecas, a nivel nacional contamos con la Ley 26.917 del Sistema Nacional de Bibliotecas Escolares y Unidades de Información Educativa para el ámbito educativo, garantizando la igualdad de oportunidades en el acceso y promoviendo la formación de colecciones digitales, la profesionalización del personal y el desarrollo de competencias de lectura crítica
+
+Finalmente la Ley 23.351 de Bibliotecas Populares( reglamentada por el Decreto 1078/89), crea la Comisión de Bibliotecas Populares, las cuales guardan un vínculo fundamental con las comunidades locales.
+
+Asimismo a nivel local existen reglamentaciones específicas como por ejemplo en la provincia de Buenos Aires la Ley 14777 que crea el Sistema Provincial de Bibliotecas.
+
+Un punto clave en términos de normativa y en pleno desarrollo y debate es el impacto de la IA
+
+La IA tiene el potencial de automatizar tareas rutinarias y técnicas (corrección, diseño de maquetación, gestión de metadatos), concentrando el valor en las grandes corporaciones que pueden invertir en esta tecnología.Esta dinámica amenaza directamente al "polo creativo" descentralizado (ilustradores, traductores), que operan mayoritariamente como *freelancers* o por proyecto, con ingresos ya precarizados.
+
+La elaboración de **Pautas de Acción Provincial para la Gobernanza Ética** son un punto de interés que proponemos incluir en esta exploración inicial ya sea a través de la creación de mesas de diálogo que definan códigos de buenas prácticas locales.
+
+Respecto de la **gobernanza** del ecosistema existen por un lado a las organizaciones del tercer sector (en conflicto entre ellas) a nivel local y nacional que representan a cada uno de los actores del ecosistema, y por el otro se debe tener en cuenta las organizaciones gubernamentales sobre todo aquellas vinculadas con el sector educativo y/o otras industrias culturales.
+
+A nivel nacional los editores se organizan en dos Cámara empresarias: la Cámara Argentina de Publicaciones (CAP) que nuclea principalmente a las grandes empresas editoriales, y la Cámara Argentina del Libro, que nuclea a editoriales Micro y PyMES, distribuidoras y de manera minoritaria algunos libreros.\
+En el caso de la CAL (la cual posee algunos de sus socios en el interior del país y es además la institución con mayor antigüedad), brinda como servicios descuentos a través de diferentes convenios para el envío de libros, asesoría para la participación en ferias además de cumplir un rol fundamental como gestora de la Agencia Argentina de ISBN.\
+Formalmente la Cámara de Papeleros y Libreros (CAPLA), la Federación Argentina de Librerías, Papelerías y Afines, FALPA, y la más reciente Cámara de Libreros Independientes (CALI) reúnen a los libreros y librerías independientes. La jóven CALI (nacida en 2023) aún no se ha logrado consolidarse con beneficios concretos, por lo que aún no podemos hablar de una institución consolidada. Por el sector papelero la plana se completa con la Federación Argentina de la Industria Gráfica y Afines y las asociaciones de autores como SADE (como la más relevante ya que cuenta con filiales en el país a pesar de que existen muchas otras[^15]).
+
+[^15]: Otras organizaciones que nuclean a escritores son la Unión de Escritoras y Escritores (UEE) y la Sociedad de Escritoras y Escritores de la Argentina (SEA), que también participan en actividades y reclamos culturales.
+
+Todas estas instituciones se reúnen en la Fundación El Libro, entidad organizadora de la Feria Internacional del Libro de Buenos Aires, y un interlocutor obligatorio en términos de expertise respecto de este tema.
+
+Un breve mapeo por las instituciones de la cadena ampliada son la Asociación Argentina de Traductores e Intérpretes (AATI) y ACE Traductores que funciona como sección autónoma de la Asociación Colegial de Escritores y Escritoras (ACE), la Asociación de Dibujantes de Argentina (ADA),la Federación Argentina de la Industria Gráfica y Afines (FAIGA, que agrupa a la industria gráfica del país, la Fundación Gutenberg que si bien no tiene representación legal funciona como institución ligada al sector gráfico. A nivel local también existen organizaciones locales como la tradicional Federación Gráfica Bonaerense.
+
+El mapeo de estas instituciones así como su situación es parte del trabajo a desarrollar en las preguntas de este eje.
+
+#### **Puntas y guías para la gestión**
+
+-   **Crear o reactivar "Mesas del Libro":** Espacios que sienten a la "cadena estrecha" (cámaras, libreros) y a la "cadena ampliada" (autores, traductores, bibliotecarios) para promover la solidaridad orgánica.\
+-   **Fortalecer los Sistemas Provinciales de Bibliotecas:** Pasar del apoyo eventual a la conformación de redes reguladas (como el ejemplo de la Ley 14.777 en PBA ) que garanticen fondos y profesionalización.\
+-   **Abordar la regulación ética ante la IA:** Establecer mesas de trabajo para definir pautas de transparencia y respeto a los derechos de autor locales frente al avance de la IA generativa, una demanda clara del sector creativo (traductores e ilustradores)
+
+#### **Preguntas e indicadores**
+
+-   ¿Existen normativas locales de Fomento a la Lectura vigentes y reglamentadas?\
+-   ¿Existen organismos locales (por ej. sedes de la SADE, ABGRA o de bibliotecas populares) donde los agentes del ecosistema dialoguen formalmente?\
+-   ¿Existe un área de gobierno específica encargada de coordinar la red de bibliotecas públicas y populares, o dependen de áreas generales de cultura?\
+-   ¿Se registran conflictos en el cumplimiento del Precio de Venta al Público (PVP) uniforme en las ferias y librerías de la provincia?.\
+-   ¿Existen compras públicas provinciales (explorar principalmente los ministerios de educación)? ¿Tienen cupos o preferencias para el contenido/producción local?
+
+**Indicadores**
+
+**Institucionalidad:** Existencia de un área/dirección específica del libro en el organigrama cultural provincial
+
+**Nivel de Asociatividad:** Cantidad de editoriales/librerías/ autores locales adheridas a alguna cámara o asociación gremial.
+
+### **4. Financiamiento**
+
+En general el libro es un negocio con una barrera de entrada relativamente baja, ya que con una pequeña inversión se puede comenzar e iniciar un proceso (más o menos lento) de construcción de catálogo. Los procesos de digitalización de la impresión permiten tiradas más cortas, así como modelos de impresión por demanda que permiten un mayor control y diversidad, pero que impactan negativamente en la actividad del librero y la capacidad de distribución.
+
+En general el ecosistema editorial ha enfrentado una serie de problemas históricos de cara a su financiamiento como una demanda interna insuficiente, el aumento de costos (papel, distribución), retrasos en la cadena de pagos y falta de acceso al crédito.
+
+Ante estos problemas, algunas editoriales optan por reducir tiradas, utilizar canales de venta directos o digitales, y modificar sus planes editoriales.[^16]
+
+[^16]: Véase https://www.perfil.com/noticias/cultura/estadisticas-preocupantes-sobre-el-ecosistema-del-libro-argentino.phtml
+
+El financiamiento público ha sido históricamente una de las herramientas clave para inyectar movimiento en el ecosistema del libro y promover la lectura, sobre todo a partir de las compras de libros realizadas a través de los ministerios de educación tanto nacionales como provinciales con fines escolares, así como la compra de obras para bibliotecas.
+
+Sin embargo existen otras fuentes de financiamiento que podemos referir, en materia de modernización y que son una deuda pendiente para el sector, entre ellos podemos mencionar:
+
+-   Experiencias que brinden una solución en términos financieros a la distribución a través de una red común de librerías, espacios provinciales. En este sentido se destacan las experiencias de distribución de ediciones locales a través de redes con las casas de la provincia.\
+-   Aprovechamiento de espacio en bodegas aéreas para el transporte de libros: si bien este proyecto no pudo culminar su desarrollo
+
+Históricamente el Fondo Nacional de las Artes a partir del gravámen del Dominio Público Pagante ha brindado apoyo financiero a autores financiando la producción de obras de pequeñas tiradas y bajo diferentes modalidades).
+
+El financiamiento de **Créditos Blandos y Microcréditos** específicas para el sector editorial, apalancando programas nacionales existentes como el Fondo Nacional para el Desarrollo Productivo (FONDEP) que en su momento ofreció, por ejemplo, créditos bonificados (7% de bonificación en la tasa de interés) para MiPyMEs culturales.
+
+De cara al financiamiento público del ecosistema del libro El financiamiento del ecosistema del libro argentino proviene de programas gubernamentales, como el Programa de Fomento al Sector del Libro y el Programa Libro% de la CONABIP, que apoyan a editoriales, librerías y bibliotecas populares a través de ayudas económicas para producción, adquisición y representación. También existen ayudas específicas, como el financiamiento para la conectividad de bibliotecas populares.
+
+#### **Puntas y guías para la gestión**
+
+Impulsar Líneas de Crédito blando: Gestionar con el Banco Provincial líneas específicas para "Industrias Culturales" que acepten garantías no tradicionales (ej. fondos de comercio, catálogos de derechos) o subsidiar tasas para proyectos de digitalización y e-commerce.
+
+**Sistematizar las Ayudas a la Movilidad:** Transformar los apoyos esporádicos para viajar a ferias (como la FIL Buenos Aires) en un programa anual concursable y previsible, permitiendo a las editoriales planificar su agenda comercial.
+
+**Explorar Modelos de Financiamiento Mixto**: Promover leyes de mecenazgo provincial que incentiven al sector privado local a financiar proyectos editoriales a cambio de beneficios fiscales.
+
+#### **Preguntas e indicadores para la gestión**
+
+**Algunas Preguntas**
+
+-   ¿Hay líneas de crédito provinciales (Banco provincial, agencias de desarrollo) están disponibles para industrias creativas? ¿El sector editorial califica para ellas?\
+-   ¿Cuál es el porcentaje del presupuesto de Cultura destinado específicamente a la adquisición de libros para bibliotecas públicas y populares?\
+-   ¿Existen subsidios para la participación de editoriales locales en ferias nacionales (ej. FIL Buenos Aires)?\
+-   ¿Cuál es la inversión total provincial en adquisición de libros (público y escolar) y qué porcentaje beneficia directamente a PyMEs editoriales locales?
+
+**Indicadores**
+
+-   **Inversión pública directa:** Monto total anual invertido por la provincia en compra de libros (escolares + bibliotecas).\
+-   **Impacto local:** % de esa inversión fue asignada a editoriales radicadas en la provincia.\
+-   **Índice de Dependencia Estatal:** *Monto total de ventas al Estado provincial por parte de editoriales locales / Facturación total estimada del sector editorial local).* Este indicador revela la fragilidad del sector ante cambios políticos.\
+-   **Acceso al Financiamiento:** Porcentaje de editoriales locales que accedieron a algún tipo de crédito (bancario o público) en los últimos 3 años.
+
+### 
+
+### **5. Internacionalización**
+
+La internacionalización del libro y la lectura argentina se fomenta principalmente a través de programas gubernamentales como el Plan Libro Argentino y el Programa de Fomento al Sector del Libro, que apoyan a editoriales y autores para expandirse a mercados extranjeros.
+
+Dentro de las políticas de internacionalización que se marcan tradicionalmente desde el sector (Dujovne,2020, CAL 2023), no solo se refiere a la exportación física y digital de libros propiamente dicha y a la venta de derechos (ya sea de traducción, otros derechos subsidiarios) sino también a otras estrategias como la co-edición.
+
+La promoción de de la cultura nacional a través de sus escritores es también otra dimensión clave
+
+Algunas de las acciones que se han llevado adelante desde la Agencia Argentina de Inversiones y Comercio Internacional (AAICI) junto a las organizaciones tradicionales son Participación en Ferias internacionales, Misiones comerciales y el desarrollo del Programa Argentina Key titles**.**
+
+Las provincias (sobre todo aquellas limítrofes) tienen en este sentido la oportunidad de entablar diferentes actividades de promoción.
+
+#### **Puntas para la gestión:**
+
+-   Detectar la "oferta exportable" provincial (autores traducibles, temáticas de nicho, ilustración infantil).\
+-   Utilizar las ferias internacionales no solo para vender, sino para profesionalizar.\
+-   Aprovechar programas nacionales como "Argentina Key Titles" o el Programa Sur.
+
+#### **Preguntas e indicadores para la gestión**
+
+**Algunas Preguntas**
+
+-   ¿Existen editoriales en la provincia que hayan vendido derechos de traducción o coedición en los últimos 5 años? ¿Cuántas editoriales de mi provincia han participado en programas de promoción de Cancillería en los últimos 5 años?\
+-   ¿Hay autores locales traducidos a otras lenguas?\
+-   ¿Se realizan misiones comerciales o culturales a países limítrofes o regiones vecinas?\
+-   ¿Las editoriales locales tienen catálogos de derechos disponibles en inglés u otro idioma?.\
+-   En el caso que me encuentre en alguna provincia limítrofe ¿Contamos con antecedentes de actividades de ciudades fronterizas de promoción de la lectura y del libro?
+
+**Indicadores**
+
+**Índice de financiamiento internacional:** Cantidad de agentes locales que recibieron apoyo financiero total o parcial para asistir a ferias nacionales o internacionales en el último año.
+
+**Presencia exterior:** Cantidad de editoriales de la provincia que participaron en ferias internacionales o rondas de negocios en los últimos 3 años.
+
+**Exportación:** Cantidad de sellos que realizaron al menos una exportación (física o de derechos) en el último período.
+
+### **6. Formación**
+
+La formación profesional es el pilar para el desarrollo de una cadena de valor local competitiva y para la gestión ética de las nuevas tecnologías.
+
+En la cadena estrecha del libro (Editores, Distribuidores, Libreros) la formación sobre todo en las herramientas de gestión, así como la baja profesionalización de editores y libreros y en general de un pensamiento más sistemático en la integración de saberes parece ser una de las grandes brechas a superar introduciendo saberes que refuercen las habilidades acerca de la dimensión económica del negocio del libro (cómo acceder a fondos, competencias esenciales sobre edición y marketing editorial, etc.).
+
+La IA Generativa ya es una realidad en el sector. El informe "Navegando lo Incierto" (CERLALC/UNSAM) revela que, si bien la adopción crece, también lo hacen las preocupaciones sobre derechos de autor y la precarización laboral.
+
+Este es un punto en el cual la cadena ampliada del ecosistema (Ilustradores, Traductores, Diseñadores, Correctores, Agentes, Bibliotecarios), se ven especialmente interpelados. Un análisis de los usos y niveles de adopción será clave para evaluar las oportunidades en este campo en cada provincia o incluso en un esfuerzo a nivel regional.
+
+En ambos puntos la articulación con los ministerios de educación así como con la academia y las universidades será clave.
+
+En resumen podemos decir que la brecha de profesionalización es alta, especialmente en gestión económica y marketing digital. Además, la IA generativa presenta desafíos éticos y laborales, especialmente para traductores e ilustradores, donde hay una alta percepción de riesgo de reemplazo.
+
+#### **Puntas y guías para la gestión**
+
+**Edición Estratégica:** Evaluar factibilidad/ necesidad de un programa de formación continua y gratuita o subsidiada, en colaboración con cámaras locales y universidades, enfocados en:
+
+-   **Dimensión económica:** Estructura de costos, acceso a líneas de crédito y gestión de flujo de caja.\
+-   **Dimensión digital:** Uso de metadatos (ONIX), gestión de canales de venta online y comercio electrónico a partir de los datos ya existentes en registro.
+
+**Mesa de Trabajo IA:** Crear un espacio de diálogo (Observatorio o Mesa de Trabajo) entre el Ministerio de Cultura, las Universidades y los gremios/asociaciones de la "cadena ampliada" (ilustradores, traductores) y promotores de la lectura (bibliotecarios) para **definir protocolos de buenas prácticas provinciales** sobre el uso de IA en la producción editorial.
+
+**Articulación Academia-Sector:** Establecer convenios marco con las universidades locales (públicas y privadas) para:
+
+-   Fomentar **prácticas profesionalizantes** en editoriales PyME de la provincia.\
+-   Desarrollar programas de **becas** para la traducción y publicación de obras de autores locales y, especialmente, la **preservación lingüística** a través de la publicación en lenguas de pueblos originarios de la región.
+
+#### **Preguntas e indicadores para la gestión**
+
+**Algunas Preguntas**
+
+-   ¿Existe oferta académica o de formación profesional en la provincia vinculada a la edición, gestión cultural o corrección?\
+-   ¿Cuál es el nivel de adopción de herramientas digitales (tiendas online, ebooks, metadatos) en las editoriales locales? ¿Cuántas librerías y editoriales locales tienen una tienda online propia y funcional para la venta (vs. solo presencia en redes sociales)?\
+-   ¿Existe una demanda específica de formación sobre la dimensión ética y legal de la IA por parte de traductores e ilustradores locales? ¿Se están discutiendo buenas prácticas sobre el uso de IA en la producción editorial local?\
+-   ¿Existen programas de becas o fondos específicos para la traducción de obras del castellano a lenguas de pueblos originarios de la provincia, o viceversa, que fomenten la preservación de la palabra escrita en estas lenguas?\
+-   En el caso de contar con organizaciones de pueblos originarios activos a nivel regional ¿se realiza alguna actividad de promoción de la palabra escrita con los actores del ecosistema del libro a nivel local
+
+**Indicadores**
+
+Índice de adopción IA (evaluar tipo de tecnología según tipo de agente)
+
+Índice de adopción de plataformas de gestión librera
+
+Articulación Académica: Convenios específicos vigentes entre la autoridad cultural provincial y universidades/institutos técnicos para la formación o investigación aplicada en el sector del libro.
+
+## **Bibliografía**
+
+[Ahmed, R., Hamam, A. A., & Sameer, M. (2024). *The role of artificial intelligence in transforming public libraries: Enhancing user experience and operational efficiency*. *International Journal of Multidisciplinary Education and Research, 9*(4), 24--33.)](bibliografia/Rasheed_2024.pdf)
+
+[AAICI. (2024). *Plan de Promoción Comercial, Inversiones y Desarrollo de Mercados Externos: Plan de acción 2024*.](bibliografia/AAICI_2024.pdf)
+
+[Cámara Argentina del Libro. (2021, mayo). *Lineamientos para un plan de internacionalización del sector editorial 2021--2023*. Comisión de Comercio Exterior y Ferias Internacionales.](bibliografia/CAL_2023.pdf)
+
+[CERLALC. (2020, agosto). *Políticas y estrategias de internacionalización editorial en América Latina*.](bibliografia/Dujovne_2020.pdf)
+
+[D'Amico, P. B. (2025). *Inteligencia artificial y bibliotecas: Un debate abierto en Argentina*. Ponencia presentada en SIDS -- Simposio Argentino de Informática, Derecho y Sociedad.](bibliografia/D.Amico_2025.pdf)
+
+[Dujovne, A. (2022, abril). *El ecosistema del libro en Iberoamérica: Un estado de la cuestión*. Centro Regional para el Fomento del Libro en América Latina y el Caribe (Cerlalc).](bibliografia/Dujovne_2022.pdf)
+
+[Dujovne, A., Cuneo, V., & González Mendoza, J. D. (2025). *Navegando lo incierto: Usos y percepciones de la IA generativa en el sector editorial iberoamericano*. CERLALC.](bibliografia/Dujovne_2025.pdf)
+
+[Dujovne, A. (2020). *Políticas y estrategias de internacionalización editorial en América Latina* \[Documento CERLALC\].](bibliografia/Dujovne_2020.pdf)
+
+[Instituto Nacional de Estadística y Censos (INDEC). (2019, noviembre). *Encuesta Nacional de Gastos de los Hogares 2017--2018: Informe de gastos*.](bibliografia/engho_2017_2018.pdf)
+
+[Instituto Nacional de Estadística y Censos (INDEC). (2024). *Cuenta satélite de cultura: Valor agregado bruto, comercio exterior, puestos de trabajo, generación del ingreso y consumo privado cultural* (Informes Técnicos, Vol. 9, Nº 193; Cuentas Nacionales, Vol. 9, Nº 13).](bibliografia/INDEC_2024_CSC.pdf)
+
+[Mihal, I., Paparella, C., & Cardini, A. (2020, abril). *Un recorrido por las políticas de lectura en la educación argentina* (Documento de Trabajo N.º 191). CIPPEC.](bibliografia/CIPPEC_2020.pdf)
+
+[SINCA, Ministerio de Cultura de la Nación. (2023). *Encuesta Nacional de Consumos Culturales 2013/2023*.](bibliografia/encc2023_libros.pdf)
