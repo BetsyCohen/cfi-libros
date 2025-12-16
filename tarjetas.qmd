@@ -10,7 +10,7 @@ format:
 
 # Tarjetas de diagnóstico
 
-Estas tarjetas ofrecen un diagnóstico rápido de cada eje del Ecosistema del Libro.\
+Estas tarjetas ofrecen un diagnóstico rápido de cada eje del Ecosistema del Libro, enfocado en la gestión y la estrategia local.
 Hacé clic en cada tarjeta para ver el detalle completo.
 
 ------------------------------------------------------------------------
@@ -23,29 +23,29 @@ Hacé clic en cada tarjeta para ver el detalle completo.
 
 ### **Qué evalúa**
 
-La capilaridad de librerías, ferias y bibliotecas, y la eficacia de las redes de circulación.
+La capilaridad de librerías, ferias y bibliotecas, la eficacia de las redes de circulación y la visibilidad de la producción local.
 
 ### **Preguntas clave**
 
--   ¿Las librerías están distribuidas o concentradas en pocos núcleos?
--   ¿Existen ferias locales con participación editorial provincial?
--   ¿Las bibliotecas compran y circulan libros locales?
--   ¿Hay mediadores activos (clubes, talleres, booktubers)?
+-   ¿Cuál es la distribución geográfica de las librerías?
+-   ¿Existen ferias consolidadas (locales/regionales) y cómo se asignan los stands?
+-   ¿La producción editorial local tiene presencia visible (sección propia, vidriera) en las librerías?
+-   ¿Están activos los agentes de promoción de la lectura (bibliotecas, mediadores)?
 
 ### **Indicadores mínimos**
 
--   Librerías por cada 100.000 habitantes\
--   \% de bibliotecas con compras a editoriales locales\
--   Nº de ferias en los últimos 2 años
+-   Librerías por cada 100.000 habitantes
+-   \% de bibliotecas con compras a editoriales locales
+-   Nº de ferias con más de 3 ediciones en los últimos 5 años
 
 ### **Acción rápida**
 
-Crear redes cooperativas de distribución entre librerías, bibliotecas y ferias.
+Crear redes cooperativas de distribución entre librerías, bibliotecas y ferias, y fomentar circuitos de turismo cultural del libro.
 
 ### **Semáforo**
 
--   🟢 Alto\
--   🟡 Medio\
+-   🟢 Alto
+-   🟡 Medio
 -   🔴 Crítico
 
 </details>
@@ -60,28 +60,29 @@ Crear redes cooperativas de distribución entre librerías, bibliotecas y ferias
 
 ### **Qué evalúa**
 
-La capacidad de la provincia para generar, sostener y usar datos.
+La capacidad del Estado provincial para generar, sistematizar y utilizar información estadística para la toma de decisiones.
 
 ### **Preguntas clave**
 
--   ¿Se registran y analizan ISBN locales?\
--   ¿Existe registro provincial de agentes del sector?\
--   ¿Hay mapa actualizado del ecosistema?
+-   ¿Existe un relevamiento estadístico sistemático (ej. convenios con Universidades)?
+-   ¿Se usa el ISBN para analizar la producción (diferenciar autoedición de empresa)?
+-   ¿Se relevan indicadores de públicos lectores, usuarios de bibliotecas o asistencia a ferias?
+-   ¿Se tienen datos sobre compras públicas, imprentas y la producción de Editoriales Universitarias?
 
 ### **Indicadores mínimos**
 
--   Nº de ISBN por tipo de registrante\
--   Nº de CUITs activos del sector\
--   Nivel de bibliodiversidad en bibliotecas
+-   Nº de agentes registrados (desagregados por rol)
+-   Nº de ISBN por tipo de registrante (Autoedición vs. Editorial)
+-   \% de cobertura de datos sobre hábitos de lectura local
 
 ### **Acción rápida**
 
-Crear un mini observatorio provincial con una planilla única o dashboard simple.
+Crear o formalizar un mini observatorio provincial en convenio con el sistema académico para sistematizar los datos clave.
 
 ### **Semáforo**
 
--   🟢 Estable\
--   🟡 Parcial\
+-   🟢 Estable
+-   🟡 Parcial
 -   🔴 Sin datos
 
 </details>
@@ -96,28 +97,30 @@ Crear un mini observatorio provincial con una planilla única o dashboard simple
 
 ### **Qué evalúa**
 
-El nivel de articulación institucional y el cumplimiento de normativas.
+El nivel de articulación institucional, la existencia de normativas de fomento y el cumplimiento de leyes clave.
 
 ### **Preguntas clave**
 
--   ¿Existe una Mesa del Libro activa?\
--   ¿Se cumple el PVP único?\
--   ¿Hay normativa provincial de bibliotecas?
+-   ¿Existe un área específica para el Libro/Lectura en el organigrama y qué recursos tiene?
+-   ¿Hay normativa de Fomento a la Lectura vigente y reglamentada?
+-   ¿Las compras públicas tienen cupo o preferencia para el libro local?
+-   ¿Se articula con gremios y asociaciones (Mesa de Diálogo formal)?
+-   ¿Se cumple la Ley de PVP y se debate la regulación ética de la IA?
 
 ### **Indicadores mínimos**
 
--   Área del libro en el organigrama\
--   Nº de instituciones articulando\
--   Reportes de incumplimiento del PVP
+-   Área del libro en el organigrama (rango jerárquico)
+-   Nº de Leyes de fomento/compra con cupo local
+-   Reportes de incumplimiento de Ley de PVP
 
 ### **Acción rápida**
 
-Reactivar la Mesa Provincial del Libro con representación amplia.
+Reactivar la Mesa Provincial del Libro con representación amplia e impulsar normativa de compra con cupo local.
 
 ### **Semáforo**
 
--   🟢 Alta\
--   🟡 Parcial\
+-   🟢 Alta
+-   🟡 Parcial
 -   🔴 Fragmentado
 
 </details>
@@ -132,28 +135,29 @@ Reactivar la Mesa Provincial del Libro con representación amplia.
 
 ### **Qué evalúa**
 
-El acceso del ecosistema al financiamiento público y privado.
+El acceso del ecosistema al financiamiento público (subsidios, premios) y privado (créditos, mecenazgo).
 
 ### **Preguntas clave**
 
--   ¿El Estado compra libros locales?\
--   ¿Existen líneas de crédito cultural?\
--   ¿Se financia participación en ferias?
+-   ¿Existen líneas de crédito o herramientas financieras específicas (tasa subsidiada) para el sector?
+-   ¿Qué instrumentos de financiamiento público directo se usan (ANR, Premios, Concursos)?
+-   ¿Hay incentivos fiscales (ej. mecenazgo) para la inversión privada en proyectos editoriales?
+-   ¿Cuál es la inversión total en compras de libros y qué porcentaje beneficia a editoriales locales?
 
 ### **Indicadores mínimos**
 
--   Inversión pública anual\
--   \% destinado a editoriales locales\
--   Editoriales con acceso a crédito
+-   Inversión pública anual en el sector
+-   \% de compras públicas destinado a editoriales locales
+-   Editoriales con acceso a crédito específico en los últimos 2 años
 
 ### **Acción rápida**
 
-Crear microcréditos y subsidios para edición y ferias.
+Crear microcréditos con garantía provincial y subsidios directos para edición y participación en ferias.
 
 ### **Semáforo**
 
--   🟢 Estable\
--   🟡 Irregular\
+-   🟢 Estable
+-   🟡 Irregular
 -   🔴 Sin financiamiento
 
 </details>
@@ -168,28 +172,30 @@ Crear microcréditos y subsidios para edición y ferias.
 
 ### **Qué evalúa**
 
-La presencia internacional del ecosistema y la exportación de derechos.
+La capacidad de la provincia para proyectar su producción editorial en el exterior, tanto comercialmente como a nivel cultural.
 
 ### **Preguntas clave**
 
--   ¿Hay editoriales exportando derechos?\
--   ¿La provincia participa en ferias internacionales?\
--   ¿Existe catálogo de derechos?
+-   ¿El Estado organiza o apoya misiones comerciales/ferias internacionales?
+-   ¿Existe articulación con programas de Cancillería (AAICI)?
+-   ¿Las editoriales tienen catálogos de derechos profesionales (ES/EN)?
+-   ¿Se han vendido derechos de traducción o coedición en los últimos 5 años?
+-   ¿Hay programas de cooperación regional/fronteriza?
 
 ### **Indicadores mínimos**
 
--   Editoriales con ventas de derechos\
--   Participación internacional\
--   Catálogo de derechos provincial
+-   Nº de editoriales con ventas de derechos en el último bienio
+-   Nº de autores locales traducidos a otras lenguas
+-   Nº de misiones/participaciones internacionales financiadas por la provincia
 
 ### **Acción rápida**
 
-Crear un mini catálogo de derechos (ES/EN).
+Crear un mini catálogo de derechos provincial bilingüe (ES/EN) y formar un grupo de editoriales para misiones comerciales regionales.
 
 ### **Semáforo**
 
--   🟢 Alta\
--   🟡 Inicial\
+-   🟢 Alta
+-   🟡 Inicial
 -   🔴 Sin estrategia
 
 </details>
@@ -204,28 +210,30 @@ Crear un mini catálogo de derechos (ES/EN).
 
 ### **Qué evalúa**
 
-La profesionalización del sector y la adopción tecnológica.
+La profesionalización del sector, la adopción tecnológica y la capacidad de responder a nuevos desafíos.
 
 ### **Preguntas clave**
 
--   ¿Hay formación en edición y comercialización?\
--   ¿Las editoriales adoptan herramientas digitales?\
--   ¿Se incorporan debates sobre IA generativa?
+-   ¿Existe oferta académica específica (Edición, Corrección) y convenios formales con el Estado?
+-   ¿Se ofrece capacitación estatal sistemática para editores, libreros y gestores?
+-   ¿Cuál es el nivel de adopción digital (tiendas online funcionales, metadatos)?
+-   ¿Se ofrece formación sobre la dimensión ética, legal y las herramientas de IA?
+-   ¿Existen becas o programas de traducción a Lenguas de Pueblos Originarios?
 
 ### **Indicadores mínimos**
 
--   Capacitaciones anuales\
--   Editoriales con tienda online\
--   Participación en espacios sobre IA
+-   Capacitaciones anuales ofrecidas por el Estado
+-   \% de editoriales con tienda online propia y funcional
+-   Nº de programas de formación en IA y Lenguas Originarias
 
 ### **Acción rápida**
 
-Crear un programa de Formación Editorial + IA.
+Crear un programa integral de Formación: **Digitalización + Ética IA + Fomento a Lenguas Originarias**.
 
 ### **Semáforo**
 
--   🟢 Alta\
--   🟡 Parcial\
+-   🟢 Alta
+-   🟡 Parcial
 -   🔴 Sin formación
 
 </details>
