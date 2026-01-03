@@ -13,229 +13,114 @@ format:
 Estas tarjetas ofrecen un diagnóstico rápido de cada eje del Ecosistema del Libro, enfocado en la gestión y la estrategia local.
 Hacé clic en cada tarjeta para ver el detalle completo.
 
-------------------------------------------------------------------------
+## Guía Diagnóstico
 
-## 🟦 Tarjeta 1 --- Exhibición y Circulación
+La guía se organiza en **seis ejes analíticos**:
 
-<details>
+1. Exhibición y Circulación  
+2. Datos e Indicadores  
+3. Normativa y Gobernanza  
+4. Financiamiento  
+5. Internacionalización  
+6. Formación  
 
-<summary><strong>▶ Ver tarjeta</strong></summary>
+---
 
-### **Qué evalúa**
+## Eje 1 – Exhibición y Circulación
 
-La capilaridad de librerías, ferias y bibliotecas, la eficacia de las redes de circulación y la visibilidad de la producción local.
+### 🎯 ¿Qué releva este bloque?
 
-### **Preguntas clave**
+- Infraestructura física disponible:  
+  densidad de librerías, bibliotecas y ferias en el territorio.
+- Existencia de redes de circulación que superen barreras geográficas.
 
--   ¿Cuál es la distribución geográfica de las librerías?
--   ¿Existen ferias consolidadas (locales/regionales) y cómo se asignan los stands?
--   ¿La producción editorial local tiene presencia visible (sección propia, vidriera) en las librerías?
--   ¿Están activos los agentes de promoción de la lectura (bibliotecas, mediadores)?
+### 💡 Conceptos centrales
 
-### **Indicadores mínimos**
+- **Doble dimensión:**  
+  medir tanto la circulación comercial (librerías / ventas) como la promoción de la lectura (bibliotecas / mediadores).
+- **Cooperación:**  
+  dada la escala del país, es clave fomentar redes de distribución cooperativas (por ejemplo, REUN) para mejorar la capilaridad territorial.
 
--   Librerías por cada 100.000 habitantes
--   \% de bibliotecas con compras a editoriales locales
--   Nº de ferias con más de 3 ediciones en los últimos 5 años
+---
 
-### **Acción rápida**
+## Eje 2 – Datos e Indicadores
 
-Crear redes cooperativas de distribución entre librerías, bibliotecas y ferias, y fomentar circuitos de turismo cultural del libro.
+### 🎯 ¿Qué releva este bloque?
 
-### **Semáforo**
+- Capacidad instalada del Estado para producir información propia y sistemática.
+- Identificación real de los agentes locales (quién es quién en el sector).
 
--   🟢 Alto
--   🟡 Medio
--   🔴 Crítico
+### 💡 Conceptos centrales
 
-</details>
+- **Del trámite a la estadística:**  
+  el ISBN no solo como registro legal, sino como dato para distinguir entre *edición de autor* y *empresa editorial*.
+- **Sostenibilidad del dato:**  
+  importancia de convenios con universidades para evitar depender de gestiones esporádicas.
 
-------------------------------------------------------------------------
+---
 
-## 🟦 Tarjeta 2 --- Datos e Indicadores
+## Eje 3 – Normativa y Gobernanza
 
-<details>
+### 🎯 ¿Qué releva este bloque?
 
-<summary><strong>▶ Ver tarjeta</strong></summary>
+- Marco institucional (áreas de gobierno).
+- Marco legal (leyes de fomento).
+- Espacios de diálogo entre sector público y privado.
 
-### **Qué evalúa**
+### 💡 Conceptos centrales
 
-La capacidad del Estado provincial para generar, sistematizar y utilizar información estadística para la toma de decisiones.
+- **Solidaridad orgánica:**  
+  el Estado como mediador entre la *cadena estrecha* (mercado / empresas) y la *cadena ampliada* (creadores / freelancers), con intereses frecuentemente contrapuestos.
+- **Defensa del valor:**  
+  el cumplimiento del Precio de Venta al Público (PVP) uniforme es clave para proteger a las librerías locales frente a grandes plataformas.
 
-### **Preguntas clave**
+---
 
--   ¿Existe un relevamiento estadístico sistemático (ej. convenios con Universidades)?
--   ¿Se usa el ISBN para analizar la producción (diferenciar autoedición de empresa)?
--   ¿Se relevan indicadores de públicos lectores, usuarios de bibliotecas o asistencia a ferias?
--   ¿Se tienen datos sobre compras públicas, imprentas y la producción de Editoriales Universitarias?
+## Eje 4 – Financiamiento
 
-### **Indicadores mínimos**
+### 🎯 ¿Qué releva este bloque?
 
--   Nº de agentes registrados (desagregados por rol)
--   Nº de ISBN por tipo de registrante (Autoedición vs. Editorial)
--   \% de cobertura de datos sobre hábitos de lectura local
+- Disponibilidad de recursos económicos (subsidios, créditos).
+- Accesibilidad para actores PyME.
+- Rol de la inversión pública directa (compras).
 
-### **Acción rápida**
+### 💡 Conceptos centrales
 
-Crear o formalizar un mini observatorio provincial en convenio con el sistema académico para sistematizar los datos clave.
+- **Inversión como sostén:**  
+  las compras públicas para escuelas y bibliotecas no son solo dotación cultural, sino una intervención económica directa en la cadena de valor.
+- **Adecuación financiera:**  
+  el sector requiere instrumentos no tradicionales, que acepten derechos de autor o catálogos como garantía.
 
-### **Semáforo**
+---
 
--   🟢 Estable
--   🟡 Parcial
--   🔴 Sin datos
+## Eje 5 – Internacionalización
 
-</details>
+### 🎯 ¿Qué releva este bloque?
 
-------------------------------------------------------------------------
+- Capacidad de proyección exterior de la producción local.
+- Articulación con organismos nacionales (Cancillería, MICA).
 
-## 🟦 Tarjeta 3 --- Gobernanza y Normativa
+### 💡 Conceptos centrales
 
-<details>
+- **Más que exportar libros:**  
+  la internacionalización incluye la venta de derechos de traducción y coedición, no solo el envío de ejemplares físicos.
+- **Identidad local:**  
+  promoción de autores locales y traducción de lenguas originarias como política cultural.
 
-<summary><strong>▶ Ver tarjeta</strong></summary>
+---
 
-### **Qué evalúa**
+## Eje 6 – Formación
 
-El nivel de articulación institucional, la existencia de normativas de fomento y el cumplimiento de leyes clave.
+### 🎯 ¿Qué releva este bloque?
 
-### **Preguntas clave**
+- Nivel de profesionalización de editores y libreros.
+- Preparación frente a nuevas tecnologías.
 
--   ¿Existe un área específica para el Libro/Lectura en el organigrama y qué recursos tiene?
--   ¿Hay normativa de Fomento a la Lectura vigente y reglamentada?
--   ¿Las compras públicas tienen cupo o preferencia para el libro local?
--   ¿Se articula con gremios y asociaciones (Mesa de Diálogo formal)?
--   ¿Se cumple la Ley de PVP y se debate la regulación ética de la IA?
+### 💡 Conceptos centrales
 
-### **Indicadores mínimos**
+- **Brecha de gestión:**  
+  necesidad crítica de formación en gestión económica y marketing digital para la sustentabilidad de los proyectos.
+- **Desafío ético (IA):**  
+  urgencia de abordar el impacto de la Inteligencia Artificial Generativa, especialmente en la protección de traductores e ilustradores locales.
 
--   Área del libro en el organigrama (rango jerárquico)
--   Nº de Leyes de fomento/compra con cupo local
--   Reportes de incumplimiento de Ley de PVP
-
-### **Acción rápida**
-
-Reactivar la Mesa Provincial del Libro con representación amplia e impulsar normativa de compra con cupo local.
-
-### **Semáforo**
-
--   🟢 Alta
--   🟡 Parcial
--   🔴 Fragmentado
-
-</details>
-
-------------------------------------------------------------------------
-
-## 🟦 Tarjeta 4 --- Financiamiento
-
-<details>
-
-<summary><strong>▶ Ver tarjeta</strong></summary>
-
-### **Qué evalúa**
-
-El acceso del ecosistema al financiamiento público (subsidios, premios) y privado (créditos, mecenazgo).
-
-### **Preguntas clave**
-
--   ¿Existen líneas de crédito o herramientas financieras específicas (tasa subsidiada) para el sector?
--   ¿Qué instrumentos de financiamiento público directo se usan (ANR, Premios, Concursos)?
--   ¿Hay incentivos fiscales (ej. mecenazgo) para la inversión privada en proyectos editoriales?
--   ¿Cuál es la inversión total en compras de libros y qué porcentaje beneficia a editoriales locales?
-
-### **Indicadores mínimos**
-
--   Inversión pública anual en el sector
--   \% de compras públicas destinado a editoriales locales
--   Editoriales con acceso a crédito específico en los últimos 2 años
-
-### **Acción rápida**
-
-Crear microcréditos con garantía provincial y subsidios directos para edición y participación en ferias.
-
-### **Semáforo**
-
--   🟢 Estable
--   🟡 Irregular
--   🔴 Sin financiamiento
-
-</details>
-
-------------------------------------------------------------------------
-
-## 🟦 Tarjeta 5 --- Internacionalización
-
-<details>
-
-<summary><strong>▶ Ver tarjeta</strong></summary>
-
-### **Qué evalúa**
-
-La capacidad de la provincia para proyectar su producción editorial en el exterior, tanto comercialmente como a nivel cultural.
-
-### **Preguntas clave**
-
--   ¿El Estado organiza o apoya misiones comerciales/ferias internacionales?
--   ¿Existe articulación con programas de Cancillería (AAICI)?
--   ¿Las editoriales tienen catálogos de derechos profesionales (ES/EN)?
--   ¿Se han vendido derechos de traducción o coedición en los últimos 5 años?
--   ¿Hay programas de cooperación regional/fronteriza?
-
-### **Indicadores mínimos**
-
--   Nº de editoriales con ventas de derechos en el último bienio
--   Nº de autores locales traducidos a otras lenguas
--   Nº de misiones/participaciones internacionales financiadas por la provincia
-
-### **Acción rápida**
-
-Crear un mini catálogo de derechos provincial bilingüe (ES/EN) y formar un grupo de editoriales para misiones comerciales regionales.
-
-### **Semáforo**
-
--   🟢 Alta
--   🟡 Inicial
--   🔴 Sin estrategia
-
-</details>
-
-------------------------------------------------------------------------
-
-## 🟦 Tarjeta 6 --- Formación
-
-<details>
-
-<summary><strong>▶ Ver tarjeta</strong></summary>
-
-### **Qué evalúa**
-
-La profesionalización del sector, la adopción tecnológica y la capacidad de responder a nuevos desafíos.
-
-### **Preguntas clave**
-
--   ¿Existe oferta académica específica (Edición, Corrección) y convenios formales con el Estado?
--   ¿Se ofrece capacitación estatal sistemática para editores, libreros y gestores?
--   ¿Cuál es el nivel de adopción digital (tiendas online funcionales, metadatos)?
--   ¿Se ofrece formación sobre la dimensión ética, legal y las herramientas de IA?
--   ¿Existen becas o programas de traducción a Lenguas de Pueblos Originarios?
-
-### **Indicadores mínimos**
-
--   Capacitaciones anuales ofrecidas por el Estado
--   \% de editoriales con tienda online propia y funcional
--   Nº de programas de formación en IA y Lenguas Originarias
-
-### **Acción rápida**
-
-Crear un programa integral de Formación: **Digitalización + Ética IA + Fomento a Lenguas Originarias**.
-
-### **Semáforo**
-
--   🟢 Alta
--   🟡 Parcial
--   🔴 Sin formación
-
-</details>
-
-------------------------------------------------------------------------
+---

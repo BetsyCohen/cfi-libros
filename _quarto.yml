@@ -6,13 +6,18 @@ website:
   navbar:
     logo: img/logo.png
     left:
-      - href: index.qmd
-        text: Inicio
-      - href: diagnostico.qmd
-        text: Diagnóstico inicial
-      - href: tarjetas.qmd
-        text: Tarjetas de Diagnóstico
-      - about.qmd
+      - text: Inicio
+        href: index.qmd
+      - text: "Ejes de analisis"
+        href: tarjetas.qmd
+      - text: "Diagnostico"
+        menu:
+          - text: "Diagnostico inicial"
+            href: diagnostico/diagnostico_inicial.qmd
+          - text: "Materiales complementarios"
+            href: materiales_complementarios.qmd
+      - text: "Sobre nosotros"
+        href: about.qmd
 
 format:
   html:
