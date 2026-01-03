@@ -13,9 +13,9 @@ website:
       - text: "Diagnostico"
         menu:
           - text: "Diagnostico inicial"
-            href: diagnostico/diagnostico_inicial.qmd
+            href:  diagnostico/diagnostico_incial.qmd
           - text: "Materiales complementarios"
-            href: materiales_complementarios.qmd
+            href:  diagnostico/materiales_complementarios.qmd
       - text: "Sobre nosotros"
         href: about.qmd
 
