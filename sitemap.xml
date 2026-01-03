@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BetsyCohen.github.io/cfi-libros/diagnostico.html</loc>
-    <lastmod>2025-12-16T11:42:30.528Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BetsyCohen.github.io/cfi-libros/tarjetas.html</loc>
-    <lastmod>2025-12-16T11:42:30.537Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BetsyCohen.github.io/cfi-libros/index.html</loc>
-    <lastmod>2025-12-16T11:42:30.536Z</lastmod>
+    <loc>https://BetsyCohen.github.io/cfi-libros/diagnostico/diagnostico_incial.html</loc>
+    <lastmod>2026-01-03T21:10:12.464Z</lastmod>
   </url>
   <url>
     <loc>https://BetsyCohen.github.io/cfi-libros/about.html</loc>
-    <lastmod>2025-12-16T11:42:30.430Z</lastmod>
+    <lastmod>2026-01-03T21:10:12.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BetsyCohen.github.io/cfi-libros/index.html</loc>
+    <lastmod>2026-01-03T21:10:12.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BetsyCohen.github.io/cfi-libros/tarjetas.html</loc>
+    <lastmod>2026-01-03T21:10:12.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BetsyCohen.github.io/cfi-libros/diagnostico/materiales_complementarios.html</loc>
+    <lastmod>2026-01-03T21:10:12.464Z</lastmod>
   </url>
 </urlset>
